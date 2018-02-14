@@ -7,6 +7,7 @@ public class mainClass {
 
 		System.out.println("Github Integration");
 
+		System.out.println("TEST Github Integration");
 		// Edit is something ...
 	}
 
