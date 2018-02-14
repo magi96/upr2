@@ -6,5 +6,6 @@ public class MAGISTELA {
 	        System.out.println("Hello, World");
 	        
 	        
+	        
 	 }
 }
